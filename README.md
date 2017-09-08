@@ -1,2 +1,2 @@
 # Hello-World
-first
+setting up github to use it for future python projects
